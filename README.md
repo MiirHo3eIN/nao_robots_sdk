@@ -27,7 +27,7 @@ If python 2.7 is already existed adjust it to be on top of your list (like image
 
 otherwise, if python 2.7 is not in the list press "New" and add the two path to have a setup like image 01.
 
-![Image 01](doc/image01.png)
+![Image 01](docs/image01.png)
 
 
 Finally to make sure that you have installed python 2.7, you can run the idle and print("Hello World") 
@@ -69,7 +69,7 @@ Finally, you will need to add the python sdk to your python environment. To do s
 
 Similar to step 02, in the "User variables for "your user name>" click on New and add the following path as shown in image 02: 
 
-![Image 02](doc/image02.png)
+![Image 02](docs/image02.png)
 
 
 
