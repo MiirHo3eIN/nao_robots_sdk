@@ -21,7 +21,7 @@ Hints on Installation:
 For Windows: 
 In your search box type ``` Edit environment variables for your account ``` and press enter.
 
-Look for the <Path> in the "User variables for <your user name>" and double click on it.
+Look for the "Path" in the "User variables for "your user name>" and double click on it.
 
 If python 2.7 is already existed adjust it to be on top of your list (like image 01)
 
@@ -38,16 +38,14 @@ For Linux: If you have a linux just drop [me](amirhossein.moallem2@unibo.it) a m
 
 You can find the packages and libraries of Nao in the following lists: 
 
-```
-
-[Official Web-page](https://www.aldebaran.com/fr/support/nao-6/downloads-softwares)
-
-[Windows OS - 64](TBD)
-
-[Mac OS](TBD)
 
 
-```
+- [Official Web-page](https://www.aldebaran.com/fr/support/nao-6/downloads-softwares)
+
+- [Windows OS - 64](TBD)
+
+- [Mac OS](TBD)
+
 
 
 
