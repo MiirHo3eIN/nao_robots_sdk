@@ -12,36 +12,36 @@ You can either go to [here](https://www.python.org/downloads/release/python-270/
 
 Hints on Installation: 
 
-1. Make sure that the version of python that you are installing is compatiable with your OS. For instance, if you are using windows 64 bit version, make sure that you are installing python 2.7 - 64 bits.
+1. Make sure that the version of python that you are installing is compatible with your OS. For instance, if you are using windows with the 64-bit version, make sure you install python 2.7 - 64 bits.
 	
 2. Install python for all users of your OS.  
 
 ### Step 02: Add(check) for python 2.7 to(in) your variable environment. 
 
 For Windows: 
-In your search box type ``` Edit environment variables for your account ``` and press enter.
+In your search box, type ``` Edit environment variables for your account ``` and press enter.
 
-Look for the "Path" in the "User variables for "your user name>" and double click on it.
+Look for the "Path" in the "User variables for "your user name>" and double-click on it.
 
-If python 2.7 is already existed adjust it to be on top of your list (like image 01)
+If python 2.7 already exists, adjust it to be on top of your list (like image 01)
 
-otherwise, if python 2.7 is not in the list press "New" and add the two path to have a setup like image 01.
+Otherwise, if python 2.7 is not in the list, press "New" and add the two paths to have a setup like an image 01.
 
 ![Image 01](docs/image_01.png)
 
 
-Finally to make sure that you have installed python 2.7, you can run the idle and print("Hello World") 
+Finally, to make sure that you have installed python 2.7, you can run the idle and print("Hello World") 
 
 
 For Mac: TBA from Luca 
 
-For Linux: just drop [me](amirhossein.moallem2@unibo.it) a message and we can do it together. 
+For Linux: just drop [me](amirhossein.moallem2@unibo.it) a message, and we can do it together. 
 
 ### Step 03: Configuring the Naoqi - SDK 
 
 You can find the packages and libraries of Nao in the following lists: 
 
-Please download SDKs for your OS and unzip them. You can find at aldebaran official web-page or the corresponding  
+Please download SDKs for your OS and unzip them. You can find it on Aldebaran official web page or the corresponding  
 
 - [Official Web-page](https://www.aldebaran.com/fr/support/nao-6/downloads-softwares)
 
@@ -51,11 +51,11 @@ Or here:
 
 - [Mac OS](https://drive.google.com/drive/folders/1hOIRb9Ys9uM-thReRW-OHCo9aXzhQNBn)
 
-After extracting, give them a proper name, let's say "naoqi_sdk" and copy them in the site-packages of your OS. 
-If you did not change the setting during python 2.7 installation, site-packages should be in the following directiosries: 
+After extracting, give them a proper name, let's say "naoqi_sdk" and copy them into the site-packages of your OS. 
+If you did not change the setting during the python 2.7 installation, site-packages should be in the following directories: 
 
 
-For windows:
+For Windows:
 
 	-  C:\Python27\Lib\site-packages
 
@@ -75,7 +75,7 @@ Similar to step 02, in the "User variables for "your user name>" click on New an
 
 ### Step 04: Hello World Test
 
-Now you should be able to run your first python script with the Nao Robot. For that you can navigate to examples and run the hello_world.py   
+Now you should be able to run your first python script with the Nao Robot. For that, you can navigate to examples and run the hello_world.py   
 
 
 
