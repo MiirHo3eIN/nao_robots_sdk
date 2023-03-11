@@ -67,7 +67,7 @@ For MAC:
 
 Finally, you will need to add the python sdk to your python environment. To do so, open ``` Edit environment variables for your account ``` as you did in step 02. 
 
-Similar to step 02, in the "User variables for "your user name>" click on New and add the following path as shown in image 02: 
+Similar to step 02, in the "User variables for "your user name>" click on New and add the following path as shown in [image 02]: 
 
 ![Image 02](docs/image_02.png)
 
