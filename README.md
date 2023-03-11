@@ -11,6 +11,7 @@ You can either go to [here](https://www.python.org/downloads/release/python-270/
 
 
 Hints on Installation: 
+
 	- Make sure that the version of python that you are installing is compatiable with your OS. For instance, if you are using windows 64 bit version, make sure that you are installing python 2.7 - 64 bits.
 	
 	- Install python for all users of your OS.  
