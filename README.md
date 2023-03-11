@@ -12,9 +12,9 @@ You can either go to [here](https://www.python.org/downloads/release/python-270/
 
 Hints on Installation: 
 
-	- Make sure that the version of python that you are installing is compatiable with your OS. For instance, if you are using windows 64 bit version, make sure that you are installing python 2.7 - 64 bits.
+1. Make sure that the version of python that you are installing is compatiable with your OS. For instance, if you are using windows 64 bit version, make sure that you are installing python 2.7 - 64 bits.
 	
-	- Install python for all users of your OS.  
+2. Install python for all users of your OS.  
 
 ### Step 02: Add(check) for python 2.7 to(in) your variable environment. 
 
@@ -27,7 +27,10 @@ If python 2.7 is already existed adjust it to be on top of your list (like image
 
 otherwise, if python 2.7 is not in the list press "New" and add the two path to have a setup like image 01.
 
-Finally to make sure that you have installed python 2.7, you can run the idle and run the hello world example as shows below. 
+![Image 01](doc/image01.png)
+
+
+Finally to make sure that you have installed python 2.7, you can run the idle and print("Hello World") 
 
 
 For Mac: TBA from Luca 
@@ -66,9 +69,11 @@ Finally, you will need to add the python sdk to your python environment. To do s
 
 Similar to step 02, in the "User variables for "your user name>" click on New and add the following path as shown in image 02: 
 
+![Image 02](doc/image02.png)
 
 
-### Step 04: Hellow World Test
+
+### Step 04: Hello World Test
 
 Now you should be able to run your first python script with the Nao Robot. For that you can navigate to examples and run the hello_world.py   
 
