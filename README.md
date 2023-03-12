@@ -7,8 +7,7 @@ Useful content to work with NAO V6 robots - Python SDK
 
 ### Step 01: python 2.7 Installation. 
 
-You can either go to [here](https://www.python.org/downloads/release/python-270/) (official website of python)
-. Then, you can simply install the executer and proceed with the given instruction.
+You should go to [here](https://www.python.org/downloads/release/python-270/) (official website of python) and download python 2.7. Then, you can simply install the executer and proceed with the given instruction.
 
 
 Hints on Installation: 
