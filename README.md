@@ -49,7 +49,7 @@ just drop [me](amirhossein.moallem2@unibo.it) a message, and we can do it togeth
 
 You can find the packages and libraries of Nao in the following lists: 
 
-Please download SDKs for your OS and unzip them. You can find it on Aldebaran official web page or the corresponding  
+Please download SDKs for your OS and unzip them. You can find it on Aldebaran official web page:
 
 - [Official Web-page](https://www.aldebaran.com/fr/support/nao-6/downloads-softwares)
 
