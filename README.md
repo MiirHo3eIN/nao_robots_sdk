@@ -25,7 +25,7 @@ For Windows:
 
 In your search box, type ``` Edit environment variables for your account ``` and press enter.
 
-Look for the "Path" in the ```User variables for "your user name``` and double-click on it.
+Look for the "Path" in the ```User variables for "your user name"``` and double-click on it.
 
 If python 2.7 already exists, adjust it to be on top of your list (like image 01)
 
