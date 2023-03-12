@@ -18,7 +18,7 @@ Hints on Installation:
 
 3. Check the ``` add to my path ``` box in the installation instruction.
 
-### Step 02: Add for python 2.7 to your variable environment. 
+### Step 02: Add python 2.7 to your variable environment. 
 
 * For Windows: 
 
