@@ -21,7 +21,7 @@ Hints on Installation:
 
 ### Step 02: Add for python 2.7 to your variable environment. 
 
-For Windows: 
+* For Windows: 
 
 In your search box, type ``` Edit environment variables for your account ``` and press enter.
 
@@ -38,11 +38,11 @@ Image 01:
 Finally, to make sure that you have installed python 2.7, you can run the idle and print("Hello World") 
 
 
-For Mac: 
+* For Mac: 
 
 TBA from Luca 
 
-For Linux: 
+* For Linux: 
 
 just drop [me](amirhossein.moallem2@unibo.it) a message, and we can do it together. 
 
