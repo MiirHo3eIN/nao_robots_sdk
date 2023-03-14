@@ -85,7 +85,9 @@ Similar to step 02, in the "User variables for "your user name" click on New and
 
 Now you should be able to run your first python script with the Nao Robot. For that, you can navigate to examples and run the hello_world.py   
 
+## Documentation 
 
+It is always helpful to read the documentation to learn how the firmware and the classes work. The latest documents regarding our sdk could be found [here](http://doc.aldebaran.com/2-8/index_dev_guide.html) in Nao-SDK official webpage.
 
 
 
