@@ -39,7 +39,7 @@ Finally, to make sure that you have installed python 2.7, you can run the idle a
 
 * For Mac: 
 
-TBA from Luca 
+To Be Defined
 
 * For Linux: 
 
@@ -70,7 +70,7 @@ For Windows:
 
 For MAC: 
 
-	- TBD by Luca
+	- To Be Defined
 
 
 Finally, you will need to add the python sdk to your python environment. To do so, open ``` Edit environment variables for your account ``` as you did in step 02. 
@@ -87,7 +87,7 @@ Now you should be able to run your first python script with the Nao Robot. For t
 
 ## Documentation 
 
-It is always helpful to read the documentation to learn how the firmware and the classes work. The latest documents regarding our sdk could be found [here](http://doc.aldebaran.com/2-8/index_dev_guide.html) in Nao-SDK official webpage.
+Reading the documentation to learn how the firmware and the classes work is always helpful. The latest documents regarding our sdk can be found [here](http://doc.aldebaran.com/2-8/index_dev_guide.html) in Nao-SDK official webpage.
 
 
 
