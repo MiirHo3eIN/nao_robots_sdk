@@ -2,9 +2,9 @@ import naoqi
 from naoqi import ALProxy
 
 IPs = {
-	"PABLO_ID" : 	"192.168.0.106",
-	"LYRIA_ID" : 	"192.168.0.10x" ,
-	"KOSHKA_ID" :	"192.168.0.10x",
+	"PABLO_ID" : 	"192.168.0.101",
+	"LYRIA_ID" : 	"192.168.0.106" ,
+	"KOSHKA_ID" :	"192.168.0.103",
 	"ANGELINA_ID" : "192.168.0.102"
 }
 
@@ -18,7 +18,7 @@ def main():
 	ttx = ALProxy("ALTextToSpeech", IPs["ANGELINA_ID"], 9559)
 	
 	# Use method say to run the program
-	ttx.say("Hello Class")
+	ttx.say("Hello All. Let's play football.")
 
 	print("test successful!")
 
