@@ -1,5 +1,7 @@
 from naoqi import ALProxy
 import time
+
+
 IPs = {
 	"PABLO_ID" : 	"192.168.0.101",
 	"LYRIA_ID" : 	"192.168.0.106" ,
@@ -31,7 +33,6 @@ turn_right_eye_off = lambda led_proxy : led_proxy.fadeRGB("RightFaceLeds", 0x00,
 def main(): 
 
 	memory_proxy = ALProxy("ALMemory", IPs["LYRIA_ID"], 9559)
-	
 	led_proxy = ALProxy("ALLeds", IPs["LYRIA_ID"], 9559)
 	
 	color = 0
@@ -41,8 +42,8 @@ def main():
 	while True:
 		l, r = bumpers(proxy = memory_proxy)
 
-		print(str(l) + "\n")
-		print(str(r) + "\n")
+		print("Left Bumper Value" + str(l) + "\n")
+		print("Right Bumper value" + str(r) + "\n")
 
 
 		previous_vals = [0,0]

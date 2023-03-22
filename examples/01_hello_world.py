@@ -12,13 +12,13 @@ IPs = {
 
 def main():
 
-	# Make an object of the class you want to use and connecto to the robot you want.
+	# Make an object of the class you want to use and connect to the robot you want.
 
 	# Select your robots ID from the IPs table 
 	ttx = ALProxy("ALTextToSpeech", IPs["LYRIA_ID"], 9559)
 	
 	# Use method say to run the program
-	ttx.say("Hello Asdollah")
+	ttx.say("Hello All. Let's play Football")
 
 	print("test successful!")
 
