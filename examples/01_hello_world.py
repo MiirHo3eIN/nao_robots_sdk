@@ -18,7 +18,7 @@ def main():
 	ttx = ALProxy("ALTextToSpeech", IPs["LYRIA_ID"], 9559)
 	
 	# Use method say to run the program
-	ttx.say("Hello All. Let's play Football")
+	ttx.say("Hello Ali")
 
 	print("test successful!")
 
