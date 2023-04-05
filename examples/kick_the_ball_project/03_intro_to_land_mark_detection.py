@@ -39,21 +39,22 @@ def main():
     # This means that the module will write in ALMemory with
     
     # period is in ms
-    period_land_mark_capture_ = 500
+    period_land_mark_capture_ = 100
     mark_detection_proxy.subscribe("Test_LandMark", period_land_mark_capture_, 0.0 )
 
     land_mark_values = []
     try: 
         while True:
-            time.sleep(0.5)
+            time.sleep(0.1)
             land_mark_values = memory_proxy.getData(land_mark_val_name, 0)
-            print(land_mark_values)
-            #if (land_mark_values) >2 :
-         #   print(land_mark_values[0])
-         #   land_mark_info = land_mark_values[1] 
-                # land_mark_extra_info 
-        #    print "Mark ID \t %d" %(land_mark_info[0][1][0])
-                
+            #print(land_mark_values)
+            if land_mark_values != None or land_mark_values != []:   
+                if len(land_mark_values) >2 :
+                    land_mark_info = land_mark_values[1] 
+                    # land_mark_extra_info 
+                    print "Mark ID \t %d" %(land_mark_info[0][1][0])
+            else: 
+                print "No Mark is detected!"
 
     except KeyboardInterrupt:
         print
