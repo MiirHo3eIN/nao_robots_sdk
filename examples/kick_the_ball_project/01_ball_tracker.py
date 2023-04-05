@@ -50,6 +50,6 @@ def main(IP_, ball_dimension):
 
 if __name__ == "__main__" :
 
-    IP = "192.168.0.102"
+    IP = "192.168.0.101"
     ball_dimension = 0.15
     main(IP, ball_dimension)
